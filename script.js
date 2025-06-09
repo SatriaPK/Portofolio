@@ -1,4 +1,3 @@
-// Pastikan HTML Anda memiliki elemen dengan id "typewriter"
 const app = document.getElementById("typewriter");
 
 const typewriter = new Typewriter(app, {
